@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Official quotes by Victor Ayoola Oluwole.">
+    <meta name="author" content="Victor Ayoola Oluwole">
+    <title>Victor Ayoola Oluwole | Official Quotes</title>
+
+    <style>
+        body{
+            margin:0;
+            font-family:Georgia, serif;
+            background:#111;
+            color:#fff;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            min-height:100vh;
+            text-align:center;
+        }
+
+        .container{
+            max-width:800px;
+            padding:40px;
+        }
+
+        h1{
+            font-size:3rem;
+            margin-bottom:10px;
+        }
+
+        h2{
+            font-weight:normal;
+            color:#ccc;
+            margin-bottom:50px;
+        }
+
+        blockquote{
+            font-size:2rem;
+            font-style:italic;
+            line-height:1.6;
+            border-left:5px solid #FFD700;
+            padding-left:20px;
+            text-align:left;
+        }
+
+        .author{
+            margin-top:20px;
+            font-size:1.2rem;
+            color:#FFD700;
+            text-align:right;
+        }
+
+        footer{
+            margin-top:60px;
+            color:#999;
+            font-size:0.9rem;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Victor Ayoola Oluwole</h1>
+
+<h2>Official Quotes</h2>
+
+<blockquote>
+"You can't go back to yesterday, but you can make today better for tomorrow."
+</blockquote>
+
+<div class="author">
+— Victor Ayoola Oluwole
+</div>
+
+<footer>
+© 2026 Victor Ayoola Oluwole. All Rights Reserved.
+</footer>
+
+</div>
+
+</body>
+</html>
